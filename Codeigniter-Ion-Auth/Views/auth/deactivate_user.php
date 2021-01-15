@@ -44,7 +44,6 @@
         <h1 class="mt-5 text-center"><?php echo lang('Auth.deactivate_heading');?></h1>
             <p class="text-center"><?php echo sprintf(lang('Auth.deactivate_subheading'), $user->username);?></p>
             <br>
-            <div id="infoMessage"><?php echo $message;?></div>
 
             <?php echo form_open('auth/deactivate/' . $user->id);?>
             <div class="form-group text-center">
