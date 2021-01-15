@@ -27,7 +27,7 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="/auth/register">Register</a>
+            <a class="nav-link" href="#">Register</a>
           </li>
         </ul>
       </div>-->
